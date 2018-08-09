@@ -1,0 +1,16 @@
+{
+    "database": "Batfunds",
+    "username": "master",
+    "password": "Master336",
+    "options": {
+        "host": "cs336project.clpxzlqlbmim.us-east-2.rds.amazonaws.com",
+        "dialect": "mysql",
+        "operatorsAliases": false,
+        "pool": {
+            "max": 5,
+            "min": 0,
+            "acquire": 30000,
+            "idle": 10000
+        }
+    }
+}
